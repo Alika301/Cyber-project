@@ -41,8 +41,12 @@ It focuses on secure message transmission and user-friendly design.
 1. Open a terminal or IDE and navigate to the project folder.  
 2. Run the server file. 
 
+python server.py
+
 ### 🖥️ 2. Start The Client/Clients   
 2. Run the client file. 
 
+python client.py
+
    
-   python server.py
+   
