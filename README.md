@@ -39,7 +39,10 @@ It focuses on secure message transmission and user-friendly design.
 
 ### 🖥️ 1. Start the Server
 1. Open a terminal or IDE and navigate to the project folder.  
-2. Run the server file.
-3. Run the client/clients.  
+2. Run the server file. 
    ```bash
+### 🖥️ 2. Start The Client/Clients   
+2. Run the client file. 
+   ```bash
+   
    python server.py
